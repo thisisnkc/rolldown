@@ -3568,7 +3568,6 @@ dependencies = [
  "memchr",
  "oxc",
  "oxc_sourcemap",
- "rolldown_utils",
 ]
 
 [[package]]
